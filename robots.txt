@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://liburan-news.github.io/vip/sitemap.xml
